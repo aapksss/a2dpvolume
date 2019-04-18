@@ -95,7 +95,7 @@ Click link:../../wiki/ScreenShots[here]
 for more screen shots.
 
 Click https://www.youtube.com/playlist?list=PL8B87E2415E38D95E[here] for the video.
-https://aapks.com/apk/a2dp-volume-for-android-2-1/
+https://aapks.com/apk/a2dp-volume-for-android-2-1/[A2DP Volume]
 
 You can find the app on the Google Play Store 
 https://market.android.com/details?id=a2dp.Vol&feature=search_result[here].
