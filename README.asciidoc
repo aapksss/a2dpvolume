@@ -18,7 +18,7 @@ Test versions can be downloaded by joining the https://plus.google.com/u/0/commu
 
 == User Information
 The wiki is located link:../../wiki[here].
-
+https://aapks.com/apk/a2dp-volume-for-android-2-1/[here].
 Please read the link:../../wiki/Manual[manual] to get started.
 
 Looking for translators.  So far this app is in US English and translated to German, Danish, and French.  If you want another language supported, post an issue to the issues list with a way to contact you or mailto:jroal@comcast.net[email me] direct.
@@ -95,7 +95,7 @@ Click link:../../wiki/ScreenShots[here]
 for more screen shots.
 
 Click https://www.youtube.com/playlist?list=PL8B87E2415E38D95E[here] for the video.
-
+https://aapks.com/apk/a2dp-volume-for-android-2-1/
 
 You can find the app on the Google Play Store 
 https://market.android.com/details?id=a2dp.Vol&feature=search_result[here].
